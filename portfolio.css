@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Prosto+One&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Prosto One', cursive;
+}
+
+:root {
+    --color-primary: #6c63ff;
+    --color-success: #00ecb1;
+    --color-warning: #f7c94b;
+    --color-danger: #f75842;
+    --color-danger-variant: rgba(247, 88, 66, 0.4);
+    --color-white: #fff;
+    --color-light: rgba(255, 255, 255, 0.7);
+    --color-black: #000;
+    --color-highlight: #00ffff;
+    --color-bg: #1f2641;
+    --color-bg1: #2e3267;
+    --color-bg2: #424890;
+    --transition: all 400ms ease;
+}
